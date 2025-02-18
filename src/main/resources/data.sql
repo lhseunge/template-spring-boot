@@ -1,0 +1,22 @@
+INSERT INTO users (name, phone, email)
+VALUES
+  ('Bree Humphrey', '010-7926-7093', 'ligula.aliquam.erat@yahoo.org'),
+  ('Jenette Norris', '010-2442-8912', 'neque.morbi.quis@icloud.org'),
+  ('Grace Holland', '010-1130-0377', 'egestas.lacinia.sed@icloud.com'),
+  ('Lionel Lester', '010-8895-8067', 'nam.porttitor.scelerisque@google.com'),
+  ('Sybil Bush', '010-4814-5671', 'adipiscing@icloud.couk'),
+  ('Karina Rojas', '010-3638-2552', 'velit.eget@yahoo.ca'),
+  ('Kadeem Cox', '010-6476-3161', 'sed.eu@aol.ca'),
+  ('Mason Wilson', '010-6772-3319', 'neque.et@yahoo.com'),
+  ('Hoyt Jarvis', '010-0812-8874', 'dolor@hotmail.couk'),
+  ('Oren Dorsey', '010-2510-2557', 'enim@protonmail.couk'),
+  ('Tamara Holt', '010-3764-8872', 'magna.lorem.ipsum@google.ca'),
+  ('Ralph Chen', '010-1750-6233', 'eget.odio@hotmail.org'),
+  ('Medge Mcguire', '010-9268-4462', 'per.conubia@aol.com'),
+  ('Ifeoma Harrington', '010-1383-0467', 'lobortis.augue@icloud.couk'),
+  ('Athena Sanchez', '010-6827-4771', 'magna.sed@hotmail.com'),
+  ('Giselle Clay', '010-4888-8246', 'pretium.neque@aol.org'),
+  ('Murphy Logan', '010-5171-6830', 'per.conubia.nostra@hotmail.couk'),
+  ('Willa Morris', '010-2971-6282', 'ac@icloud.net'),
+  ('Yolanda Parsons', '010-9441-8298', 'erat@icloud.net'),
+  ('James Wilkinson', '010-9761-1773', 'fringilla@aol.edu');
